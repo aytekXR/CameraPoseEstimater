@@ -16,7 +16,8 @@
 A step by step series of examples that tell you how to get a development env running.
 
 ```
-cd /path/to/the/project
+git clone https://github.com/aytekine/CameraPoseEstimater
+cd CameraPoseEstimater
 pip install -r ./requirements.txt
 ```
 
@@ -24,7 +25,7 @@ pip install -r ./requirements.txt
 For the basic usage following code can be run.
 
 ```
-python3 main.py
+python main.py
 ```
 
 ## 🏁 Task Details
